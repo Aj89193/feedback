@@ -1,0 +1,40 @@
+/* Write your CSS code here. */
+.main-container{
+    background-color:lightpink;
+    background-size: cover;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height:200px;
+    width:400px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.heading{
+    font-size: 24px;
+    color:black;
+}
+.emoji-list{
+    list-style-type: none;
+}
+.image-class{
+    height:50px;
+width:50px
+}
+.emoji-name{
+color:black;
+font-size: 18px;
+}
+.loveEmoji{
+    height:70px;
+    width:80px;
+}
+.description{
+    color:grey;
+    size:18px;
+}
